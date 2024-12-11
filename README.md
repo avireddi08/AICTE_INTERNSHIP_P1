@@ -4,13 +4,11 @@ Implementation of ML Model for Image Classification
 This internship project involves designing and implementing Convolutional Neural Network (CNN) models for image classification tasks.
 
 I have designed and implemented following CNN models: 
-
 1. CIFAR-10 Model:
 
 a. Dataset: CIFAR-10 (available on Google).
 
 b. Description: The model has been trained on the CIFAR-10 dataset and is able to predict the classes of images accurately, achieving a good accuracy score.
-
 2. Food Classifier:
 
 a. Dataset: Food dataset (available on Kaggle).
